@@ -17,5 +17,5 @@ This script will download the video of every contents in a YouTube playlist.
 ### Usage
 - Please enter the url of the playlist you wish to download: - playlist from youtube only
   - e.g. https://www.youtube.com/playlist?list=OLAK5uy_kOhxZJmu14hn8tCliKIFz6-p6D4YKOV3g
-- ``Downloads destination (optional): `` - must insert the full path
+- ``Downloads destination (optional):`` - must insert the full path
   - e.g. C:\Users\Username\Folder
