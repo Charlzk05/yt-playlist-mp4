@@ -2,6 +2,8 @@
 A YouTube playlist downloader. Requires Python 3.11+ and pytube to work
 This script will download the video of every contents in a YouTube playlist.
 
+[check out yt playlist mp3 downloader](https://github.com/Charlzk05/yt-playlist)
+
 ### Packages and versions
 - pytube==12.1.0
 
